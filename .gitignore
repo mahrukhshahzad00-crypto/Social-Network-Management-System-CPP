@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+bin/
+obj/
+*.depend
+*.layout
